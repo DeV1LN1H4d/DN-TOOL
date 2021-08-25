@@ -1,7 +1,5 @@
 # How install DN-TOOL
 
-* `rm -rf DN-TOOL`
-
 * `pkg update`
 
 * `pkg upgrade`
@@ -9,6 +7,8 @@
 * `pkg install git -y`
 
 * `pkg install python -y`
+
+* `rm -rf DN-TOOL`
 
 * `git clone https://github.com/DeV1LN1H4d/DN-TOOL`
 
