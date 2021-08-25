@@ -1,5 +1,7 @@
 # How install DN-TOOL
 
+* `rm -rf DN-TOOL`
+
 * `pkg update`
 
 * `pkg upgrade`
