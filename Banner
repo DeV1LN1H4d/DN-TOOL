@@ -4,6 +4,7 @@
 import os
 import time
 import sys
+os.system("clear")
 
 os.system('apt update')
 os.system('apt upgrade -y')
@@ -15,7 +16,7 @@ os.system('gem install lolcat')
 output = '/data/data/com.termux/files/usr/etc/'
 
 print('')
-name = raw_input('Input your Name : ')
+name = raw_input("\033[0;36m"+'Input your Name : ')
 
 wlc = '''
 import os,sys,time,random
@@ -70,4 +71,4 @@ h2.write(bashrc2)
 h2.write('\[\e[34m\]└─>\[\e[35m\]'+name+'\[\e[34m\][~]:\[\e[1;32m\] "\n')
 h2.write('echo -e "\e[6 q"')
 h2.close()
-print('DONE')
+print("\033[1;95m"+'Successful Done')
