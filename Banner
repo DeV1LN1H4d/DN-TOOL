@@ -13,6 +13,7 @@ os.system('pkg install ncurses-utils -y')
 os.system('pkg install ruby -y')
 os.system('gem install lolcat')
 
+os.system("clear")
 output = '/data/data/com.termux/files/usr/etc/'
 
 print('')
