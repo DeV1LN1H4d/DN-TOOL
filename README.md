@@ -1,4 +1,4 @@
-# How install DN-TOOL
+# How To install DN-TOOL
 
 * `pkg update`
 
