@@ -1,4 +1,4 @@
-# How To install DN-TOOL
+# INSTALLATION {Termux}
 
 * `pkg update`
 
